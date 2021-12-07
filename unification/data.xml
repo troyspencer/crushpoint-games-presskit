@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Unification</title>
+  <release-dates>
+    <release-date>2022</release-date>
+  </release-dates>
+  
+  <website>https://troyspencer.github.io/unification-presskit/</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request>https://dodistribute.com/access/oAoGOmQRfY/</press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/1177340/Unification/</link>
+    </platform>
+    <platform>
+      <name>Oculus App Lab</name>
+      <link>https://www.oculus.com/experiences/quest/4244393598953009/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>14.99</value>
+    </price>
+  </prices>
+
+  <description>
+  Unification is a VR roguelike in destructible procedural voxel caves filled with traps and enemies. Use impactful tools to move in unique ways and defeat obstacles. Enjoy fluid physics-based movement with leaping, climbing, and gravity realignment.</description>
+
+  <!-- Or multiple blocks: -->
+  
+  <histories>
+    <history>
+      <header>Zero G Debris Climbing</header>
+      <text>Latching on floating debris and maintaining momentum</text>
+    </history>
+    <history>
+      <header>Spelunky VR</header>
+      <text>Climbing in procedural voxel caves with traps, enemies, and rewards</text>
+    </history>
+    <history>
+      <header>Roguevania</header>
+      <text>Branching paths, teleporters, unique biomes, side quests</text>
+    </history>
+    <history>
+      <header>Early Access</header>
+      <text>Community feedback driven development</text>
+    </history>
+  </histories>
+  
+
+  <features>
+    <feature>
+    Fluid and powerful physics-based movement: Feel momentum and the wind rushing past while leaping into chasms, vaulting over ledges, weaving around traps, and realigning gravity at will.
+    </feature>
+    <feature>
+    Impactful and unique tools and weapons: Swing above traps with a grappling hook, or glide past with a parachute. Go in guns blazing with a shotgun, or slice with a katana. Forge a new path with a jackhammer, or warp through with a teleporter.
+    </feature>
+    <feature>
+    Procedural destructible biomes filled with traps and enemies: Navigate through unique voxel cave obstacle courses with branching paths that test your reactions, knowledge, and control. Feel free to explore the depths and get lost. The handheld mini-map and conveniently placed teleporters make it easy to quickly get back on track.
+    </feature>
+    <feature>
+    Carefully crafted controls and haptics: Each action is positioned on the controllers to allow effortless simultaneous usage of all movement and tool capabilities, inducing a flow state of control. Player collisions, damage, climbing, tool usage, and more are fed into haptics for a complete loop of sensory I/O.
+    </feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Unification Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+        f15SXKzhFow
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+      1177340
+    </steam>
+  </widgets>
+
+    <!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+    -->
+
+  <credits>
+    <credit>
+      <person>Troy Spencer</person>
+      <role>Lead Designer and Lead Programmer</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Troy Spencer</name>
+
+      <!-- Pick one: -->
+      <link>https://twitter.com/__ZURG__</link>
+    </contact>
+  </contacts>
+</product>
