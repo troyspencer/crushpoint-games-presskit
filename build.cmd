@@ -1,1 +1,1 @@
-presskit build -h -o docs -w .
+presskit build -h -o docs -w . --pretty-links --collapse-menu

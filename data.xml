@@ -6,7 +6,7 @@
   <website>https://crushpoint.games/</website>
   <press-contact>
     <!-- Mail address -->
-    zurgsoftware@gmail.com
+    crushpointgames@gmail.com
   </press-contact>
 
   <!-- Google analytics ID: -->
@@ -28,10 +28,10 @@
 
   <socials>
     <social>
-      <name>twitter.com/__ZURG__</name>
+      <name>twitter.com/CrushPointGames</name>
       <link>
         <!-- URL starting with http or https -->
-        https://twitter.com/__ZURG__
+        https://twitter.com/CrushPointGames
       </link>
     </social>
     <social>
@@ -96,11 +96,10 @@
 
   <contacts>
     <contact>
-      <name></name>
+      <name>Troy Spencer</name>
 
       <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <link>https://twitter.com/__ZURG__</link>
     </contact>
   </contacts>
 </company>
