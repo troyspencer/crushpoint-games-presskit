@@ -3,17 +3,17 @@
     "short_name": "Launch",
     "icons": [
         {
-          "src": "/static/launch-144.png",
+          "src": "/launch/static/launch-144.png",
           "type": "image/png",
           "sizes": "144x144"
         },
         {
-          "src": "/static/launch-192.png",
+          "src": "/launch/static/launch-192.png",
           "type": "image/png",
           "sizes": "192x192"
         },
         {
-          "src": "/static/launch-512.png",
+          "src": "/launch/static/launch-512.png",
           "type": "image/png",
           "sizes": "512x512"
         }  
