@@ -3,23 +3,23 @@
     "short_name": "Launch",
     "icons": [
         {
-          "src": "/launch/static/launch-144.png",
+          "src": "/static/launch-144.png",
           "type": "image/png",
           "sizes": "144x144"
         },
         {
-          "src": "/launch/static/launch-192.png",
+          "src": "/static/launch-192.png",
           "type": "image/png",
           "sizes": "192x192"
         },
         {
-          "src": "/launch/static/launch-512.png",
+          "src": "/static/launch-512.png",
           "type": "image/png",
           "sizes": "512x512"
         }  
     ],
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "/launch",
+    "scope": "/launch",
     "display": "standalone",
     "background_color": "black",
     "theme_color": "black"
