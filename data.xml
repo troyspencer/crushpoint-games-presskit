@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
   <title>CrushPoint Games</title>
-  <based-in>Minneapolis, MN</based-in>
+  <based-in>Portland, OR</based-in>
   <founding-date>2022</founding-date>
   <website>https://crushpoint.games/</website>
   <press-contact>
@@ -11,7 +11,6 @@
 
   <!-- Google analytics ID: -->
   <analytics></analytics>
-
 
   <phone></phone>
   <address>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Launch</title>
+  <release-dates>
+    <release-date>October 2019</release-date>
+  </release-dates>
+  
+  <website>https://crushpoint.games/launch/</website>
+
+  <platforms>
+    <platform>
+      <name>Browser WebAssembly</name>
+      <link>https://crushpoint.games/launch/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>
+  Launch is a 2D physics 0G jumping and climbing game programmed in Go WebAssembly and TypeScript React</description>
+
+  <!-- Or multiple blocks: -->
+  
+  <histories>
+    <history>
+      <header>Zero G Debris Climbing</header>
+      <text>Latching on floating debris and maintaining momentum</text>
+    </history>
+  </histories>
+  
+  <features>
+    <feature>
+    Simple and zen gameplay
+    </feature>
+  </features>
+
+    <!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+    -->
+
+  <credits>
+    <credit>
+      <person>Troy Spencer</person>
+      <role>Lead Designer and Lead Programmer</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Troy Spencer</name>
+
+      <!-- Pick one: -->
+      <link>https://twitter.com/__ZURG__</link>
+    </contact>
+  </contacts>
+</product>
